@@ -33,7 +33,7 @@ My aim is to query the data using the query function and extract some important 
 ```
     =QUERY(A:H, "SELECT C,F,H WHERE (C='Binder' or C='Pencil') AND F=2015",1)
 ```
-![](TASK 1.jpg)
+![]()
 
 
 
