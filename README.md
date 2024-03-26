@@ -21,7 +21,7 @@ My aim is to query the data using the query function and extract some important 
 
 ## Tools and Data source
 1. Google Sheet
-2. ![Data source](https://github.com/Crowngold/SkilHarvest-Stationary-Supplies/blob/main/SkilHarvest_Stationary_Supplies.csv)
+2. [Data source](https://github.com/Crowngold/SkilHarvest-Stationary-Supplies/blob/main/SkilHarvest_Stationary_Supplies.csv)
 
 
 ### TASKS
