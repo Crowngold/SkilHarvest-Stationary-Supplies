@@ -14,9 +14,10 @@ The "= QUERY" function has 3 defined parameters;
 3. Header: is defined as the optimal number for when you need to indicate the number of header rows in your data.
 
 ## Dataset Description
+![](SKILHARVEST DATASET.jpg)
+
 The dataset Skilharvest Stationary supplies shows the sales items, sales rep, region of sales, month and year of sales, order date and sales.
 My aim is to query the data using the query function and extract some important details from the dataset. The dataset overview as sown in Google sheet is displayed below;
-![](SKILHARVEST DATASET.jpg)
 
 ### TASKS
 1. Show sales of binder items and pencil in 2015.
@@ -26,11 +27,13 @@ My aim is to query the data using the query function and extract some important 
 5. Show sales of items that start with 'sk', include their region, sales rep and year.
 
 ## Data Extraction
+
 ### TASK 1 SOLUTION
+![](TASK 1.jpg)
 ```
     =QUERY(A:H, "SELECT C,F,H WHERE (C='Binder' or C='Pencil') AND F=2015",1)
 ```
-![](TASK 1.png)
+
 
 
 ### TASK 2 SOLUTION
