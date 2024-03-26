@@ -15,7 +15,8 @@ The "= QUERY" function has 3 defined parameters;
 
 ## Dataset Description
 The dataset Skilharvest Stationary supplies shows the sales items, sales rep, region of sales, month and year of sales, order date and sales.
-My aim is to query the data using the query function and extract some important details from the dataset.
+My aim is to query the data using the query function and extract some important details from the dataset. The dataset overview as sown in Google sheet is displayed below;
+![](SKILHARVEST DATASET.png)
 
 ### TASKS
 1. Show sales of binder items and pencil in 2015.
