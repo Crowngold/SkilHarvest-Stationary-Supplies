@@ -42,17 +42,21 @@ My aim is to query the data using the query function and extract some important 
     =QUERY(A:H, "SELECT A,B,F WHERE (A='Central' OR A='East') AND F=2014",1)
 ```
 ![](https://github.com/Crowngold/SkilHarvest-Stationary-Supplies/blob/main/TASK%202.jpg)
+
 ### TASK 3 SOLUTION
 ```
     =QUERY(A:H, "SELECT A,B,E,F,H WHERE (E='Aug' OR E='Sep') AND F=2014",1)
 ```
+![](https://github.com/Crowngold/SkilHarvest-Stationary-Supplies/blob/main/TASK%203.jpg)
 
 ### TASK 4 SOLUTION
 ```
     =QUERY(A:H, "SELECT A,B,C,F,H WHERE C LIKE 'Pen%'",1)
 ```
+![](https://github.com/Crowngold/SkilHarvest-Stationary-Supplies/blob/main/TASK%204.jpg)
 
 ### TASK 5 SOLUTION
 ```
     =QUERY(A:H, "SELECT A,B,C,F,H WHERE C LIKE '%sk'",1)
 ```
+![](https://github.com/Crowngold/SkilHarvest-Stationary-Supplies/blob/main/TASK%205.jpg)
