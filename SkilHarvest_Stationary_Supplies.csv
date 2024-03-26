@@ -1,0 +1,48 @@
+Region,Sales_rep,Item,OrderDate,Month,Year,GDSOrderDate,Sales
+East,Richard,Pen Set,7/4/2014,Jul,2014,7042014,309.38
+East,Nick,Binder,7/12/2014,Jul,2014,7122014,57.71
+Central,Morgan,Pen Set,7/21/2014,Jul,2014,7212014,686.95
+East,Susan,Binder,7/29/2014,Jul,2014,7292014,1619.19
+Central,Matthew,Pen Set,8/7/2014,Aug,2014,8072014,1005.9
+East,Richard,Pencil,8/15/2014,Aug,2014,8152014,174.65
+West,James,Desk,8/24/2014,Aug,2014,8242014,825
+Central,Smith,Desk,9/1/2014,Sep,2014,9012014,250
+Central,Bill,Pencil,9/10/2014,Sep,2014,9102014,9.03
+East,Richard,Pen Set,9/18/2014,Sep,2014,9182014,255.84
+West,James,Pen,9/27/2014,Sep,2014,9272014,151.24
+Central,Morgan,Binder,10/5/2014,Oct,2014,10052014,251.72
+West,Thomas,Binder,10/14/2014,Oct,2014,10142014,1139.43
+East,Richard,Pen,10/22/2014,Oct,2014,10222014,575.36
+Central,Rachel,Pencil,10/31/2014,Oct,2014,10312014,18.06
+East,Susan,Pen,11/8/2014,Nov,2014,11082014,299.85
+Central,Alex,Binder,11/17/2014,Nov,2014,11172014,54.89
+Central,Matthew,Pen Set,11/25/2014,Nov,2014,11252014,479.04
+Central,Alex,Binder,12/4/2014,Dec,2014,12042014,1879.06
+Central,Smith,Pencil,12/12/2014,Dec,2014,12122014,86.43
+Central,Rachel,Binder,12/21/2014,Dec,2014,12212014,139.72
+East,Susan,Pen Set,12/29/2014,Dec,2014,12292014,1183.26
+East,Richard,Pencil,1/6/2015,Jan,2015,1062015,189.05
+Central,Bill,Binder,1/15/2015,Jan,2015,1152015,413.54
+Central,Matthew,Binder,1/23/2015,Jan,2015,1232015,999.5
+Central,Smith,Binder,2/1/2015,Feb,2015,2012015,1305
+Central,Alex,Pencil,2/9/2015,Feb,2015,2092015,179.64
+East,Richard,Binder,2/18/2015,Feb,2015,2182015,19.96
+Central,Bill,Pen,2/26/2015,Feb,2015,2262015,539.73
+West,James,Binder,3/7/2015,Mar,2015,3072015,139.93
+West,James,Pencil,3/15/2015,Mar,2015,3152015,167.44
+Central,Alex,Pen Set,3/24/2015,Mar,2015,3242015,249.5
+East,Richard,Binder,4/1/2015,Apr,2015,4012015,299.4
+Central,Rachel,Pencil,4/10/2015,Apr,2015,4102015,131.34
+Central,Rachel,Pencil,4/18/2015,Apr,2015,4182015,149.25
+East,Nick,Pen,4/27/2015,Apr,2015,4272015,479.04
+Central,Alex,Pencil,5/5/2015,May,2015,5052015,449.1
+Central,Bill,Pencil,5/14/2015,May,2015,5142015,68.37
+West,Thomas,Pencil,5/22/2015,May,2015,5222015,63.68
+Central,Bill,Binder,5/31/2015,May,2015,5312015,719.2
+East,Richard,Binder,6/8/2015,Jun,2015,6082015,539.4
+Central,Matthew,Desk,6/17/2015,Jun,2015,6172015,625
+Central,Morgan,Pencil,6/25/2015,Jun,2015,6252015,449.1
+,,,,,,,
+,,,,,,,
+,,,,,,,
+, ,,,,,,
